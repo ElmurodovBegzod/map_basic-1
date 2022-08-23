@@ -6,7 +6,9 @@ Return the variable.
 */
 
 Map func() {
-  return;
+  Map data = {1: 'A', 2: 'B'};
+  data[3] = 'C';
+  return data;
 }
 
 void main() {
