@@ -7,7 +7,9 @@ Then return the map.
 */
 
 Map func() {
-  return;
+  Map dct = {};
+  dct['Begzod'] = 'Elmurodov';
+  return dct;
 }
 
 void main() {
