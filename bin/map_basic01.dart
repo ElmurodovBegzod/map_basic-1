@@ -5,7 +5,8 @@
 */
 
 Map func() {
-  return;
+  Map data = {1: 'Begzod', 2: 'Elmurodov', 3: '15 yosh'};
+  return data;
 }
 
 void main() {
