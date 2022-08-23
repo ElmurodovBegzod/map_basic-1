@@ -5,7 +5,7 @@
 */
 
 Map func() {
-  Map data = {1: 'Begzod', 2: 'Elmurodov', 3: '15 yosh'};
+  Map data = {1: 'Begzod', 2: 'Elmurodov', 3: 'Sherzodovich'};
   return data;
 }
 
